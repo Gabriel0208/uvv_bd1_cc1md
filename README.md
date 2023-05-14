@@ -1,2 +1,3 @@
-# uvv_bd1_cc1md
-Repositório para a matéria Banco de Dados 1
+# Pset Banco de Dados 1
+**Documentação do Pset**
+
