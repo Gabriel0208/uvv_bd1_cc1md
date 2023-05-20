@@ -10,9 +10,6 @@ CREATE DATABASE uvv OWNER gabriel TEMPLATE template0 ENCODING 'UTF8' LC_COLLATE 
 -- Comando para criar o esquema
 CREATE SCHEMA lojas AUTHORIZATION gabriel;
 
--- Comando para autorizar o usuário a usar o esquema
-GRANT USAGE ON SCHEMA lojas TO gabriel;
-
 -- Comando para alterar o esquema padrão
 SET search_path TO lojas, "$user", public;
 
