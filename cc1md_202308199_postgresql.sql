@@ -12,7 +12,9 @@ CREATE DATABASE uvv OWNER gabriel TEMPLATE template0 ENCODING 'UTF8' LC_COLLATE 
 
 --Comando para conectar no banco de dados criado com o usuario certo
 
-\c uvv gabriel
+\c uvv;
+
+SET USER gabriel;
 
 
 
