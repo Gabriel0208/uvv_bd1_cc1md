@@ -1,3 +1,1 @@
-# Pset Banco de Dados 1
-**Legenda dos *Arquivos***
-
+Esse repositório serve para armazenar projetos da matéria *Banco de dados 1*
