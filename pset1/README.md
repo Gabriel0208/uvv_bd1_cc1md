@@ -9,7 +9,7 @@
 ### **Arquivos:**
 1. cc1md_202308199_postgresql.architect: É o código gerado do diagrama criado no SQL Power Architect
 2. cc1md_202308199_postgresql.pdf: É a imagem gerada do diagrama criado no SQL Power Architect. Aqui você pode visualizar tabelas . colunas e suas relações.
-3. cc1md_202308199_postgresql.sql: É o script final , caso queira pode ser usado para implementar o banco de dados no seu sistema. Aqui tem todos os comandos e comentários feitos na criação do banco de dados deste projeto.
+3. cc1md_202308199_postgresql.sql: É o script final , caso queira pode ser usado para implementar o banco de dados no seu sistema. Aqui tem todos os comandos e comentários feitos na criação do banco de dados deste projeto. Caso precise da senha do usuário criado , esta presente nesse script.
 
 
 
