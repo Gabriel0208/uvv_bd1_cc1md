@@ -1,6 +1,7 @@
 -- Comandos que excluem o banco de dados e o usuario com o mesmo nome que o que for criado , se necessário
+DROP DATABASE IF EXISTS uvv;
 DROP USER IF EXISTS gabriel;
-DROP DATABASE IF EXSISTS uvv;
+
 
 -- Comando para criar o usuário
 
