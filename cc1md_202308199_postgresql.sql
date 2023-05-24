@@ -19,7 +19,7 @@ CREATE DATABASE uvv OWNER gabriel TEMPLATE template0 ENCODING 'UTF8' LC_COLLATE 
 
 \c uvv;
 
-SET USER gabriel;
+SET ROLE gabriel;
 
 
 
