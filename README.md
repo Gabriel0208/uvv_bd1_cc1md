@@ -1,1 +1,2 @@
-Esse repositório serve para armazenar projetos da matéria **Banco de dados 1**
+# Projeto PSET1
+## Esse projeto , tem como objetivo criar um banco de dados chamado das Lojas UVV , começando do 0. Desde o projeto lógico até o script final..
