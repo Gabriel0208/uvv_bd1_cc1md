@@ -11,5 +11,14 @@
 2. cc1md_202308199_postgresql.pdf: É a imagem gerada do diagrama criado no SQL Power Architect. Aqui você pode visualizar tabelas . colunas e suas relações.
 3. cc1md_202308199_postgresql.sql: É o script final , caso queira pode ser usado para implementar o banco de dados no seu sistema. Aqui tem todos os comandos e comentários feitos na criação do banco de dados deste projeto. Caso precise da senha do usuário criado , esta presente nesse script.
 
+### **Como usar:**
+Se deseja executar os arquivos desse diretório siga os seguintes passos:
+1. Abra o terminal Linux no seu dispositivo
+2. Salve o arquivo com extensão ".sql" presente nesse diretório
+3. Execute no terminal o seguinte comando "psql - u < "nome_que_voce_salvou_o_arquivo".sql
+4. Ao executar esse comando você terá o usuário , banco de dados e esquema criado em seu dispositivo
+5. Agora se deseja entender melhor o banco de dados , veja o arquivo salvo com extensão pdf.
+6. Esta tudo pronto para você inserir os dados que desejar e executar comandos com SQL
+
 
 
